@@ -1,0 +1,286 @@
+{
+  "summary": {
+    "totalRecords": 4,
+    "intensityProfile": {
+      "philosophical": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "controversy": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "viral": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "emotional": {
+        "heat": 9,
+        "chaos": 8
+      }
+    },
+    "themes": [
+      "death",
+      "music",
+      "disco",
+      "pop culture",
+      "biography",
+      "death",
+      "music",
+      "disco",
+      "pop culture",
+      "biography",
+      "death",
+      "music",
+      "disco",
+      "pop culture",
+      "biography",
+      "death",
+      "music",
+      "disco",
+      "pop culture",
+      "biography"
+    ],
+    "entities": [
+      "Victor Willis",
+      "Village People",
+      "\"Y.M.C.A.\"",
+      "The Washington Post",
+      "\"In the Navy\"",
+      "\"Macho Man\"",
+      "Victor Willis",
+      "Village People",
+      "\"Y.M.C.A.\"",
+      "The Washington Post",
+      "\"In the Navy\"",
+      "\"Macho Man\"",
+      "Victor Willis",
+      "Village People",
+      "\"Y.M.C.A.\"",
+      "The Washington Post",
+      "\"In the Navy\"",
+      "\"Macho Man\"",
+      "Victor Willis",
+      "Village People",
+      "\"Y.M.C.A.\"",
+      "The Washington Post",
+      "\"In the Navy\"",
+      "\"Macho Man\""
+    ],
+    "generatedAt": "2026-07-03T02:55:49.310Z"
+  },
+  "dataset": [
+    {
+      "signal": {
+        "title": "Victor Willis, who fronted the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - The Washington Post",
+        "description": "The singer was a mainstay of the disco group, dressing as a policeman or naval officer while performing hits such as “In the Navy” and “Macho Man.”",
+        "source": "The Washington Post",
+        "publishedAt": "2026-07-01T22:07:54Z"
+      },
+      "facts": {
+        "facts": [
+          "Victor Willis, who fronted the Village People and co-wrote “Y.M.C.A.”, died at age 74.",
+          "He was a mainstay of the disco group Village People.",
+          "He performed dressed as a policeman or naval officer.",
+          "He performed hits such as “In the Navy” and “Macho Man.”",
+          "The article was published by The Washington Post on 2026-07-01."
+        ],
+        "entities": [
+          "Victor Willis",
+          "Village People",
+          "\"Y.M.C.A.\"",
+          "The Washington Post",
+          "\"In the Navy\"",
+          "\"Macho Man\""
+        ],
+        "themes": [
+          "death",
+          "music",
+          "disco",
+          "pop culture",
+          "biography"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should the cultural legacy of disco icons like Victor Willis be actively preserved and incorporated into modern music education?",
+        "background": "Victor Willis, who fronted the Village People and co-wrote “Y.M.C.A.,” died at age 74. He was a mainstay of the disco group Village People, performing dressed as a policeman or naval officer and delivering hits such as “In the Navy” and “Macho Man.” The article reporting his death was published by The Washington Post on 2026-07-01.",
+        "framing": "Should the cultural legacy of disco icons like Victor Willis be actively preserved and incorporated into modern music education?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Victor Willis, who fronted the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - The Washington Post",
+        "description": "The singer was a mainstay of the disco group, dressing as a policeman or naval officer while performing hits such as “In the Navy” and “Macho Man.”",
+        "source": "The Washington Post",
+        "publishedAt": "2026-07-01T22:07:54Z"
+      },
+      "facts": {
+        "facts": [
+          "Victor Willis, who fronted the Village People and co-wrote “Y.M.C.A.”, died at age 74.",
+          "He was a mainstay of the disco group Village People.",
+          "He performed dressed as a policeman or naval officer.",
+          "He performed hits such as “In the Navy” and “Macho Man.”",
+          "The article was published by The Washington Post on 2026-07-01."
+        ],
+        "entities": [
+          "Victor Willis",
+          "Village People",
+          "\"Y.M.C.A.\"",
+          "The Washington Post",
+          "\"In the Navy\"",
+          "\"Macho Man\""
+        ],
+        "themes": [
+          "death",
+          "music",
+          "disco",
+          "pop culture",
+          "biography"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should Victor Willis’s contributions to music be recognized as influential beyond the disco era?",
+        "background": "Victor Willis, who fronted the Village People and co-wrote “Y.M.C.A.,” died at age 74. He was a mainstay of the disco group Village People and performed dressed as a policeman or naval officer. He performed hits such as “In the Navy” and “Macho Man.” The article was published by The Washington Post on 2026-07-01.",
+        "framing": "Should Victor Willis’s contributions to music be recognized as influential beyond the disco era?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 8,
+        "controversy": 8,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Victor Willis, who fronted the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - The Washington Post",
+        "description": "The singer was a mainstay of the disco group, dressing as a policeman or naval officer while performing hits such as “In the Navy” and “Macho Man.”",
+        "source": "The Washington Post",
+        "publishedAt": "2026-07-01T22:07:54Z"
+      },
+      "facts": {
+        "facts": [
+          "Victor Willis, who fronted the Village People and co-wrote “Y.M.C.A.”, died at age 74.",
+          "He was a mainstay of the disco group Village People.",
+          "He performed dressed as a policeman or naval officer.",
+          "He performed hits such as “In the Navy” and “Macho Man.”",
+          "The article was published by The Washington Post on 2026-07-01."
+        ],
+        "entities": [
+          "Victor Willis",
+          "Village People",
+          "\"Y.M.C.A.\"",
+          "The Washington Post",
+          "\"In the Navy\"",
+          "\"Macho Man\""
+        ],
+        "themes": [
+          "death",
+          "music",
+          "disco",
+          "pop culture",
+          "biography"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "To what extent should Victor Willis be recognized for his musical contributions versus his iconic stage personas in evaluating his legacy?",
+        "background": "Victor Willis, the frontman of the Village People, co-wrote and sang on the hit \"Y.M.C.A.\" and performed other successful songs such as \"In the Navy\" and \"Macho Man.\" He was known for appearing onstage dressed as a policeman or naval officer. Willis died at age 74, and his death was reported by The Washington Post on July 1, 2026.",
+        "framing": "Should Victor Willis be celebrated primarily for his songwriting and vocal impact, or for the visual characters he portrayed as part of the group's image?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Victor Willis, who fronted the Village People and co-wrote ‘Y.M.C.A.,’ dies at 74 - The Washington Post",
+        "description": "The singer was a mainstay of the disco group, dressing as a policeman or naval officer while performing hits such as “In the Navy” and “Macho Man.”",
+        "source": "The Washington Post",
+        "publishedAt": "2026-07-01T22:07:54Z"
+      },
+      "facts": {
+        "facts": [
+          "Victor Willis, who fronted the Village People and co-wrote “Y.M.C.A.”, died at age 74.",
+          "He was a mainstay of the disco group Village People.",
+          "He performed dressed as a policeman or naval officer.",
+          "He performed hits such as “In the Navy” and “Macho Man.”",
+          "The article was published by The Washington Post on 2026-07-01."
+        ],
+        "entities": [
+          "Victor Willis",
+          "Village People",
+          "\"Y.M.C.A.\"",
+          "The Washington Post",
+          "\"In the Navy\"",
+          "\"Macho Man\""
+        ],
+        "themes": [
+          "death",
+          "music",
+          "disco",
+          "pop culture",
+          "biography"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should the legacy of Victor Willis and the Village People be re‑evaluated in light of changing cultural attitudes toward disco and its representations?",
+        "background": "Victor Willis, who fronted the Village People and co‑wrote “Y.M.C.A.,” died at age 74. He was a mainstay of the disco group Village People, performing dressed as a policeman or naval officer and singing hits such as “In the Navy” and “Macho Man.” The Washington Post published the news of his death on 2026-07-01.",
+        "framing": "Should the legacy of Victor Willis and the Village People be re‑evaluated in light of changing cultural attitudes toward disco and its representations?",
+        "emotion": 9,
+        "controversy": 8
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9.2
+    }
+  ]
+}

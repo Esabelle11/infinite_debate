@@ -1,5 +1,1001 @@
 [
   {
+    "id": "199c408b-31b5-4ee3-bfe9-d9a3618c8042",
+    "date": "2026-07-03T03:27:28.795Z",
+    "topic": "Should the legacy of Victor Willis and the Village People be re‑evaluated in light of changing cultural attitudes toward disco and its representations?",
+    "summary": "Victor Willis, who fronted the Village People and co‑wrote “Y.M.C.A.,” died at age 74. He was a mainstay of the disco group Village People, performing dressed as a policeman or naval officer and singing hits such as “In the Navy” and “Macho Man.” The Washington Post published the news of his death on 2026-07-01.",
+    "audioUrl": "/audio/199c408b-31b5-4ee3-bfe9-d9a3618c8042.mp3",
+    "duration": 236.40000000000003,
+    "transcript": [
+      {
+        "speaker": "Marcus",
+        "text": "Welcome to the show, folks—today we’re digging into Victor Willis and the Village People’s legacy, asking whether it’s time to rethink their disco impact under today’s cultural lens, balancing historic fun with modern vibes.",
+        "phase": "OPENING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Victor Willis and the Village People gave us timeless dance‑floor anthems—“Y.M.C.A.,” “Macho Man,” “In the Navy”—that still make strangers grin and strangers together, and their goofy costumes were just a 1970s party gimmick, not a harmful statement, so we should keep celebrating that fun legacy.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "With today’s sharper eye on representation, the Village People’s flashy costumes lock us into outdated gay stereotypes, so we should re‑evaluate their legacy—keeping the dance‑floor hits while shedding the narrow image that blocks fresh, authentic voices.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Sarah, you say the costumes lock us into outdated gay stereotypes, but isn’t the point that those flamboyant roles actually gave visibility to queer culture when it was otherwise hidden, turning satire into a stepping stone rather than a barrier?",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Marcus, sure the costumes gave a flash of queer flair, but they also cemented shallow tropes and keep the media stuck in a costume‑only story while ignoring the real songwriters—re‑evaluating lets us celebrate Willis’s voice and the music without the dated packaging.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, tossing the Village People aside wipes out an unmistakable slice of pop‑culture that made generations dance and laugh—those goofy costumes were a party gag, not a harmful manifesto, and stripping them away erases the very fun that opened doors for countless later acts.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Alex, the “goofy costumes” you glorify actually cement stale gay clichés and keep the spotlight on cheap visuals while the real songwriters—like Willis himself—stay buried; re‑evaluating lets us celebrate the music without locking new audiences into a tired, one‑note image.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, tossing out the Village People erases a huge pop‑culture milestone that got generations dancing and opened doors for goofy, inclusive acts—delete the costumes and you delete the fun that still makes strangers smile on the dance floor.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex and Jamie, each of you name the toughest objection to your own stance and fire back with a direct response—no summaries, just the clash.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sure, the costumes can look odd and disco feels dated, but those goofy outfits opened doors for countless fun, inclusive acts—and their songs still light up dance floors, proving the legacy’s joy is worth celebrating.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Victor Willis’s voice still gets people dancing, but we can honor his talent by celebrating the music while moving past the costume caricatures that lock us into outdated gay tropes.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex and Sarah, wrap up in one quick line each—summarize your core point without any new arguments.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Victor Willis’s death at 74 reminds us that his Village People hits—“Y.M.C.A.,” “In the Navy,” “Macho Man”—still make strangers smile and dance, and their goofy costume party vibe was pure fun, not a harmful statement, so we should keep celebrating that joyful legacy.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Victor Willis’s voice gave us timeless hits like “Y.M.C.A.,” “In the Navy,” and “Macho Man,” but the group’s costume personas lock us into outdated gay tropes; re‑evaluating his legacy lets us celebrate the music while shedding the dated images, keeping the beat alive and the story richer.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Both sides agree Willis’s music still fuels joy, but Alex stresses the fun, inclusive legacy of the costumes, while Sarah urges separating the hits from outdated gay tropes; the unresolved question is how to honor the songs while reevaluating the visual branding.",
+        "phase": "CLOSING"
+      }
+    ],
+    "debatePackage": {
+      "framing": {
+        "centralQuestion": "Should we rethink Victor Willis and the Village People now?",
+        "keyConflict": "Old disco love vs new cultural vibe",
+        "stakes": "If we ignore the past we lose history, if we cling we may miss fresh views"
+      },
+      "knownFacts": [
+        "Victor Willis died at 74",
+        "He sang as a cop or naval officer in the Village People",
+        "The group made hits like “Y.M.C.A.,” “In the Navy,” “Macho Man”"
+      ],
+      "alex": {
+        "stance": "We should keep the classic view and celebrate the fun legacy",
+        "role": "Team Retro‑Fans",
+        "openingStrategy": [
+          "Kick off with a quick recap of the hits",
+          "Share a feel‑good story of dancing to Y.M.C.A."
+        ],
+        "coreClaims": [
+          "The music still brings people together",
+          "The costumes were a playful act, not harmful"
+        ],
+        "arguments": [
+          "If a song makes strangers smile on the dance floor, that’s good vibes you can’t delete",
+          "The costumes were like a costume party – just goofy fun, not a statement to judge"
+        ],
+        "attackVectors": [
+          "Point out that changing the past won’t stop new music",
+          "Show that many still love the songs at weddings and parties",
+          "Ask if ditching the group erases a big piece of pop culture",
+          "Highlight that the band was meant to be a joke, not a serious agenda"
+        ],
+        "reframeAngles": [
+          "Talk about how the songs helped people feel accepted in clubs",
+          "Shift to how the group opened doors for other fun acts"
+        ],
+        "concessions": [
+          "Yes, disco can feel dated to some ears",
+          "Yes, the outfits can look odd today"
+        ],
+        "likelyWeaknesses": [
+          "May seem like ignoring modern critiques",
+          "Might rely on nostalgia over fresh facts"
+        ],
+        "closingThemes": [
+          "Music that makes you move stays good",
+          "Let’s enjoy the fun without over‑thinking"
+        ]
+      },
+      "sarah": {
+        "stance": "We need to re‑evaluate the legacy with today’s lens",
+        "role": "Team Fresh‑View",
+        "openingStrategy": [
+          "Start with a quick note on changing cultural attitudes",
+          "Ask why we still celebrate the same old disco image"
+        ],
+        "coreClaims": [
+          "The image can feel stuck in stereotypes",
+          "Re‑thinking helps new artists get credit"
+        ],
+        "arguments": [
+          "If the costumes lock us into old gay tropes, we miss more real representation",
+          "Re‑evaluating lets us keep the good music but drop the dated bits"
+        ],
+        "attackVectors": [
+          "Show that some fans feel the outfits stay stuck in the past",
+          "Ask if we should keep praising anything that can hurt a group’s image",
+          "Point out that the hype hides the people who actually wrote the songs",
+          "Highlight that the media still paints the same old picture"
+        ],
+        "reframeAngles": [
+          "Talk about how re‑thinking can bring fresh disco-inspired art",
+          "Shift to how we honor the person Victor Willis while updating the story"
+        ],
+        "concessions": [
+          "The songs still get people dancing",
+          "Victor Willis was a big talent"
+        ],
+        "likelyWeaknesses": [
+          "May sound like “cancel culture” to some",
+          "Risk of downplaying the fun factor"
+        ],
+        "closingThemes": [
+          "We can love the beat and still grow the story",
+          "A fresh look makes the legacy richer"
+        ]
+      },
+      "moderator": {
+        "questions": [
+          "Alex, why does a costume party matter today?",
+          "Sarah, can you give a quick example of the hurt side?"
+        ],
+        "pressurePoints": [
+          "Ask Alex if he sees any downside to the old image",
+          "Push Sarah on how to keep the fun while changing the story"
+        ],
+        "factChecks": [
+          "Reminder: Victor Willis died in 2026, no other dates needed",
+          "Reminder: The group’s hit list is limited to Y.M.C.A., In the Navy, Macho Man"
+        ],
+        "tradeoffs": [
+          "Keep the music’s joy vs. update the cultural picture"
+        ]
+      }
+    },
+    "timeline": [
+      {
+        "speaker": "Marcus",
+        "start": 0,
+        "end": 14.05,
+        "duration": 14.05
+      },
+      {
+        "speaker": "Alex",
+        "start": 14.05,
+        "end": 33.95,
+        "duration": 19.9
+      },
+      {
+        "speaker": "Sarah",
+        "start": 33.95,
+        "end": 50.825,
+        "duration": 16.875
+      },
+      {
+        "speaker": "Marcus",
+        "start": 50.825,
+        "end": 65.60000000000001,
+        "duration": 14.775
+      },
+      {
+        "speaker": "Sarah",
+        "start": 65.60000000000001,
+        "end": 83,
+        "duration": 17.4
+      },
+      {
+        "speaker": "Alex",
+        "start": 83,
+        "end": 101.825,
+        "duration": 18.825
+      },
+      {
+        "speaker": "Sarah",
+        "start": 101.825,
+        "end": 121.075,
+        "duration": 19.25
+      },
+      {
+        "speaker": "Alex",
+        "start": 121.075,
+        "end": 137.55,
+        "duration": 16.475
+      },
+      {
+        "speaker": "Marcus",
+        "start": 137.55,
+        "end": 146.925,
+        "duration": 9.375
+      },
+      {
+        "speaker": "Alex",
+        "start": 146.925,
+        "end": 161.82500000000002,
+        "duration": 14.9
+      },
+      {
+        "speaker": "Sarah",
+        "start": 161.82500000000002,
+        "end": 174.12500000000003,
+        "duration": 12.3
+      },
+      {
+        "speaker": "Marcus",
+        "start": 174.12500000000003,
+        "end": 181.20000000000002,
+        "duration": 7.075
+      },
+      {
+        "speaker": "Alex",
+        "start": 181.20000000000002,
+        "end": 200.00000000000003,
+        "duration": 18.8
+      },
+      {
+        "speaker": "Sarah",
+        "start": 200.00000000000003,
+        "end": 219.62500000000003,
+        "duration": 19.625
+      },
+      {
+        "speaker": "Marcus",
+        "start": 219.62500000000003,
+        "end": 236.40000000000003,
+        "duration": 16.775
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "Marcus_0",
+          "speaker": "Marcus",
+          "phase": "OPENING",
+          "turn": 0,
+          "phaseId": 0,
+          "phaseTurn": 1,
+          "text": "Welcome to the show, folks—today we’re digging into Victor Willis and the Village People’s legacy, asking whether it’s time to rethink their disco impact under today’s cultural lens, balancing historic fun with modern vibes.",
+          "claims": [
+            "folks—today we’re digging into Victor Willis and the Village People’s legacy",
+            "asking whether it’s time to rethink their disco impact under today’s cultural lens",
+            "balancing historic fun with modern vibes"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_1",
+            "Sarah_2"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 5
+          }
+        },
+        {
+          "id": "Alex_1",
+          "speaker": "Alex",
+          "phase": "BUILD",
+          "turn": 1,
+          "phaseId": 1,
+          "phaseTurn": 0,
+          "text": "Victor Willis and the Village People gave us timeless dance‑floor anthems—“Y.M.C.A.,” “Macho Man,” “In the Navy”—that still make strangers grin and strangers together, and their goofy costumes were just a 1970s party gimmick, not a harmful statement, so we should keep celebrating that fun legacy.",
+          "claims": [
+            "Victor Willis and the Village People gave us timeless dance‑floor anthems—“Y",
+            "” “In the Navy”—that still make strangers grin and strangers together",
+            "and their goofy costumes were just a 1970s party gimmick"
+          ],
+          "stance": "We should keep the classic view and celebrate the fun legacy",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_0"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.4857898541351293,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 6.485789854135129
+          }
+        },
+        {
+          "id": "Sarah_2",
+          "speaker": "Sarah",
+          "phase": "BUILD",
+          "turn": 2,
+          "phaseId": 1,
+          "phaseTurn": 1,
+          "text": "With today’s sharper eye on representation, the Village People’s flashy costumes lock us into outdated gay stereotypes, so we should re‑evaluate their legacy—keeping the dance‑floor hits while shedding the narrow image that blocks fresh, authentic voices.",
+          "claims": [
+            "With today’s sharper eye on representation",
+            "the Village People’s flashy costumes lock us into outdated gay stereotypes",
+            "so we should re‑evaluate their legacy—keeping the dance‑floor hits while shedding the narrow image that blocks fresh"
+          ],
+          "stance": "We need to re‑evaluate the legacy with today’s lens",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_0"
+          ],
+          "replyChildren": [
+            "Marcus_3"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.6967200533688653,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 6.696720053368866
+          }
+        },
+        {
+          "id": "Marcus_3",
+          "speaker": "Marcus",
+          "phase": "CLASH",
+          "turn": 3,
+          "phaseId": 2,
+          "phaseTurn": 0,
+          "text": "Sarah, you say the costumes lock us into outdated gay stereotypes, but isn’t the point that those flamboyant roles actually gave visibility to queer culture when it was otherwise hidden, turning satire into a stepping stone rather than a barrier?",
+          "claims": [
+            "you say the costumes lock us into outdated gay stereotypes",
+            "isn’t the point that those flamboyant roles actually gave visibility to queer culture when it was otherwise hidden",
+            "turning satire into a stepping stone rather than a barrier?"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_2"
+          ],
+          "replyChildren": [
+            "Sarah_4"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 1.154718111916162,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 8.154718111916162
+          }
+        },
+        {
+          "id": "Sarah_4",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 4,
+          "phaseId": 2,
+          "phaseTurn": 1,
+          "text": "Marcus, sure the costumes gave a flash of queer flair, but they also cemented shallow tropes and keep the media stuck in a costume‑only story while ignoring the real songwriters—re‑evaluating lets us celebrate Willis’s voice and the music without the dated packaging.",
+          "claims": [
+            "sure the costumes gave a flash of queer flair",
+            "they also cemented shallow tropes and keep the media stuck in a costume‑only story while ignoring the real songwriters—re‑evaluating lets us celebrate Willis’s voice and the music without the dated packaging"
+          ],
+          "stance": "We need to re‑evaluate the legacy with today’s lens",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_3"
+          ],
+          "replyChildren": [
+            "Alex_5"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 1.0085795041328933,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 12.008579504132893
+          }
+        },
+        {
+          "id": "Alex_5",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 5,
+          "phaseId": 2,
+          "phaseTurn": 2,
+          "text": "Sarah, tossing the Village People aside wipes out an unmistakable slice of pop‑culture that made generations dance and laugh—those goofy costumes were a party gag, not a harmful manifesto, and stripping them away erases the very fun that opened doors for countless later acts.",
+          "claims": [
+            "tossing the Village People aside wipes out an unmistakable slice of pop‑culture that made generations dance and laugh—those goofy costumes were a party gag",
+            "not a harmful manifesto",
+            "and stripping them away erases the very fun that opened doors for countless later acts"
+          ],
+          "stance": "We should keep the classic view and celebrate the fun legacy",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_4"
+          ],
+          "replyChildren": [
+            "Sarah_6"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.9126201729980221,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 8.912620172998022
+          }
+        },
+        {
+          "id": "Sarah_6",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 6,
+          "phaseId": 2,
+          "phaseTurn": 3,
+          "text": "Alex, the “goofy costumes” you glorify actually cement stale gay clichés and keep the spotlight on cheap visuals while the real songwriters—like Willis himself—stay buried; re‑evaluating lets us celebrate the music without locking new audiences into a tired, one‑note image.",
+          "claims": [
+            "the “goofy costumes” you glorify actually cement stale gay clichés and keep the spotlight on cheap visuals while the real songwriters—like Willis himself—stay buried",
+            "re‑evaluating lets us celebrate the music without locking new audiences into a tired"
+          ],
+          "stance": "We need to re‑evaluate the legacy with today’s lens",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_5"
+          ],
+          "replyChildren": [
+            "Alex_7"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.8826615435867486,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 12.88266154358675
+          }
+        },
+        {
+          "id": "Alex_7",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 7,
+          "phaseId": 2,
+          "phaseTurn": 4,
+          "text": "Sarah, tossing out the Village People erases a huge pop‑culture milestone that got generations dancing and opened doors for goofy, inclusive acts—delete the costumes and you delete the fun that still makes strangers smile on the dance floor.",
+          "claims": [
+            "tossing out the Village People erases a huge pop‑culture milestone that got generations dancing and opened doors for goofy",
+            "inclusive acts—delete the costumes and you delete the fun that still makes strangers smile on the dance floor"
+          ],
+          "stance": "We should keep the classic view and celebrate the fun legacy",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_6"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.902685311066739,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 11.902685311066739
+          }
+        },
+        {
+          "id": "Marcus_8",
+          "speaker": "Marcus",
+          "phase": "CONSOLIDATION",
+          "turn": 8,
+          "phaseId": 3,
+          "phaseTurn": 0,
+          "text": "Alright, Alex and Jamie, each of you name the toughest objection to your own stance and fire back with a direct response—no summaries, just the clash.",
+          "claims": [
+            "each of you name the toughest objection to your own stance and fire back with a direct response—no summaries"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_9",
+            "Sarah_10"
+          ],
+          "metrics": {
+            "strength": 0,
+            "viralScore": 1.8020832012361057,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 3.8020832012361057
+          }
+        },
+        {
+          "id": "Alex_9",
+          "speaker": "Alex",
+          "phase": "CONSOLIDATION",
+          "turn": 9,
+          "phaseId": 3,
+          "phaseTurn": 1,
+          "text": "Sure, the costumes can look odd and disco feels dated, but those goofy outfits opened doors for countless fun, inclusive acts—and their songs still light up dance floors, proving the legacy’s joy is worth celebrating.",
+          "claims": [
+            "the costumes can look odd and disco feels dated",
+            "those goofy outfits opened doors for countless fun",
+            "inclusive acts—and their songs still light up dance floors"
+          ],
+          "stance": "We should keep the classic view and celebrate the fun legacy",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_8"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.2470653244578522,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 1,
+            "influence": 5.247065324457852
+          }
+        },
+        {
+          "id": "Sarah_10",
+          "speaker": "Sarah",
+          "phase": "CONSOLIDATION",
+          "turn": 10,
+          "phaseId": 3,
+          "phaseTurn": 2,
+          "text": "Victor Willis’s voice still gets people dancing, but we can honor his talent by celebrating the music while moving past the costume caricatures that lock us into outdated gay tropes.",
+          "claims": [
+            "Victor Willis’s voice still gets people dancing",
+            "we can honor his talent by celebrating the music while moving past the costume caricatures that lock us into outdated gay tropes"
+          ],
+          "stance": "We need to re‑evaluate the legacy with today’s lens",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_8"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.2377818058756946,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 14.237781805875695
+          }
+        },
+        {
+          "id": "Marcus_11",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 11,
+          "phaseId": 4,
+          "phaseTurn": 0,
+          "text": "Alright, Alex and Sarah, wrap up in one quick line each—summarize your core point without any new arguments.",
+          "claims": [
+            "wrap up in one quick line each—summarize your core point without any new arguments"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_12",
+            "Sarah_13"
+          ],
+          "metrics": {
+            "strength": 0,
+            "viralScore": 1.6834435226087985,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 3.6834435226087985
+          }
+        },
+        {
+          "id": "Alex_12",
+          "speaker": "Alex",
+          "phase": "CLOSING",
+          "turn": 12,
+          "phaseId": 4,
+          "phaseTurn": 1,
+          "text": "Victor Willis’s death at 74 reminds us that his Village People hits—“Y.M.C.A.,” “In the Navy,” “Macho Man”—still make strangers smile and dance, and their goofy costume party vibe was pure fun, not a harmful statement, so we should keep celebrating that joyful legacy.",
+          "claims": [
+            "Victor Willis’s death at 74 reminds us that his Village People hits—“Y",
+            "” “Macho Man”—still make strangers smile and dance",
+            "and their goofy costume party vibe was pure fun"
+          ],
+          "stance": "We should keep the classic view and celebrate the fun legacy",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_11"
+          ],
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.3867933367336605,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 13.38679333673366
+          }
+        },
+        {
+          "id": "Sarah_13",
+          "speaker": "Sarah",
+          "phase": "CLOSING",
+          "turn": 13,
+          "phaseId": 4,
+          "phaseTurn": 2,
+          "text": "Victor Willis’s voice gave us timeless hits like “Y.M.C.A.,” “In the Navy,” and “Macho Man,” but the group’s costume personas lock us into outdated gay tropes; re‑evaluating his legacy lets us celebrate the music while shedding the dated images, keeping the beat alive and the story richer.",
+          "claims": [
+            "Victor Willis’s voice gave us timeless hits like “Y",
+            "the group’s costume personas lock us into outdated gay tropes",
+            "re‑evaluating his legacy lets us celebrate the music while shedding the dated images"
+          ],
+          "stance": "We need to re‑evaluate the legacy with today’s lens",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_11"
+          ],
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.9553043277158175,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 14.955304327715817
+          }
+        },
+        {
+          "id": "Marcus_14",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 14,
+          "phaseId": 4,
+          "phaseTurn": 3,
+          "text": "Both sides agree Willis’s music still fuels joy, but Alex stresses the fun, inclusive legacy of the costumes, while Sarah urges separating the hits from outdated gay tropes; the unresolved question is how to honor the songs while reevaluating the visual branding.",
+          "claims": [
+            "Both sides agree Willis’s music still fuels joy",
+            "Alex stresses the fun",
+            "inclusive legacy of the costumes"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_12",
+            "Sarah_13"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.9856089053427795,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 8.98560890534278
+          }
+        }
+      ],
+      "edges": [
+        {
+          "from": "Marcus_0",
+          "to": "Alex_1",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Sarah_2",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_2",
+          "to": "Marcus_3",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Sarah_4",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Alex_5",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_5",
+          "to": "Sarah_6",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Alex_7",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Alex_9",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Sarah_10",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Alex_12",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Sarah_13",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_12",
+          "to": "Marcus_14",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_13",
+          "to": "Marcus_14",
+          "type": "reply"
+        }
+      ],
+      "semanticEdges": [
+        {
+          "from": "Sarah_4",
+          "to": "Sarah_6",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_2",
+          "to": "Alex_7",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_5",
+          "to": "Alex_7",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Sarah_10",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Sarah_10",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_1",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_10",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_1",
+          "to": "Sarah_13",
+          "type": "attack",
+          "confidence": 0.93
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_10",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Alex_12",
+          "to": "Sarah_13",
+          "type": "concession",
+          "confidence": 0.92
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Marcus_14",
+          "type": "sameTheme",
+          "confidence": 0.94
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Marcus_14",
+          "type": "sameTheme",
+          "confidence": 0.92
+        },
+        {
+          "from": "Sarah_10",
+          "to": "Marcus_14",
+          "type": "sameTheme",
+          "confidence": 0.92
+        }
+      ],
+      "themes": [
+        {
+          "id": "theme_1",
+          "label": "folks—today we’re digging into Victor Willis and the Village People’s legacy",
+          "nodes": [
+            "Marcus_0"
+          ]
+        },
+        {
+          "id": "theme_2",
+          "label": "Victor Willis and the Village People gave us timeless dance‑floor anthems—“Y",
+          "nodes": [
+            "Alex_1",
+            "Alex_12"
+          ]
+        },
+        {
+          "id": "theme_3",
+          "label": "With today’s sharper eye on representation",
+          "nodes": [
+            "Sarah_2"
+          ]
+        },
+        {
+          "id": "theme_4",
+          "label": "you say the costumes lock us into outdated gay stereotypes",
+          "nodes": [
+            "Marcus_3"
+          ]
+        },
+        {
+          "id": "theme_5",
+          "label": "sure the costumes gave a flash of queer flair",
+          "nodes": [
+            "Sarah_4"
+          ]
+        },
+        {
+          "id": "theme_6",
+          "label": "tossing the Village People aside wipes out an unmistakable slice of pop‑culture that made generations dance and laugh—those goofy costumes were a party gag",
+          "nodes": [
+            "Alex_5",
+            "Alex_7"
+          ]
+        },
+        {
+          "id": "theme_7",
+          "label": "the “goofy costumes” you glorify actually cement stale gay clichés and keep the spotlight on cheap visuals while the real songwriters—like Willis himself—stay buried",
+          "nodes": [
+            "Sarah_6"
+          ]
+        },
+        {
+          "id": "theme_8",
+          "label": "each of you name the toughest objection to your own stance and fire back with a direct response—no summaries",
+          "nodes": [
+            "Marcus_8"
+          ]
+        },
+        {
+          "id": "theme_9",
+          "label": "the costumes can look odd and disco feels dated",
+          "nodes": [
+            "Alex_9"
+          ]
+        },
+        {
+          "id": "theme_10",
+          "label": "Victor Willis’s voice still gets people dancing",
+          "nodes": [
+            "Sarah_10",
+            "Sarah_13"
+          ]
+        },
+        {
+          "id": "theme_11",
+          "label": "wrap up in one quick line each—summarize your core point without any new arguments",
+          "nodes": [
+            "Marcus_11"
+          ]
+        },
+        {
+          "id": "theme_12",
+          "label": "Both sides agree Willis’s music still fuels joy",
+          "nodes": [
+            "Marcus_14"
+          ]
+        }
+      ],
+      "communities": {
+        "Moderator": [
+          "Marcus_0",
+          "Marcus_3",
+          "Marcus_8",
+          "Marcus_11",
+          "Marcus_14"
+        ],
+        "We should keep the classic view and celebrate the fun legacy": [
+          "Alex_1",
+          "Alex_5",
+          "Alex_7",
+          "Alex_9",
+          "Alex_12"
+        ],
+        "We need to re‑evaluate the legacy with today’s lens": [
+          "Sarah_2",
+          "Sarah_4",
+          "Sarah_6",
+          "Sarah_10",
+          "Sarah_13"
+        ]
+      }
+    }
+  },
+  {
     "id": "fb547931-537c-400b-b93e-e438dfadbd29",
     "date": "2026-07-02T05:56:31.977Z",
     "topic": "Should courts permit candidates with similar names to remain on the ballot when parties allege voter deception?",
