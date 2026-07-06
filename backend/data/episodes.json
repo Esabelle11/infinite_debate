@@ -1,5 +1,1044 @@
 [
   {
+    "id": "18ad16d6-8341-4b76-bb61-ed65ef4a1a94",
+    "date": "2026-07-06T03:28:06.005Z",
+    "topic": "Should open‑source disk polishing be adopted as a standard method for preserving optical media?",
+    "summary": "An article titled Disk Polishing Goes Open Source was published on Hackaday on 2026-07-04 at 20:00:00 UTC. The article describes optical media as having high density and being relatively durable. It also notes that optical media can be decently long‑lasting if well cared for. The piece highlights the emergence of open‑source tools for disk polishing.",
+    "audioUrl": "/audio/18ad16d6-8341-4b76-bb61-ed65ef4a1a94.mp3",
+    "duration": 246.22500000000002,
+    "transcript": [
+      {
+        "speaker": "Marcus",
+        "text": "Welcome to the show! Today we’ll explore whether open‑source disk polishing should become the go‑to method for keeping CDs and DVDs safe—a clash of DIY savings versus proven commercial kits.",
+        "phase": "OPENING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Commercial kits are lab‑tested to meet strict safety standards, so you won’t risk turning a rare CD into a cracked, unplayable disc—something a DIY polish can’t guarantee. Reliability matters more than the few dollars you might save.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Open‑source polishing scripts clean discs just as effectively as costly kits, so you don’t need to pay a brand name to save your movies and games; the more people can do it, the fewer memories get lost.",
+        "phase": "BUILD"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Sarah, you say lab‑tested kits guarantee safety, but can you point to any independent study showing they outperform a well‑designed open‑source polish on real‑world disc longevity?",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Marcus, without pricey lab‑tested kits you’re gambling with fragile archives—DIY polishes need special rigs and can leave uneven spots that corrupt data, something no independent study has proven safe, whereas commercial kits come with vetted, repeatable results that actually protect future generations.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Sarah, commercial kits still require you to drive to a specialty shop and buy a pricey, single‑use kit, while an open‑source script runs on any PC and a cheap polish pad—so the “vetted” claim is just a lock‑in, not a safety guarantee. Plus, thousands of hobbyists have already logged successful restores, proving the DIY method works just as well.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Sure, but hobbyists aren’t required to own a calibrated spindle, nanometer‑grade pad or a clean‑room environment—missing any of those can leave a rare CD unevenly polished and unreadable, something a tested commercial kit guarantees.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Commercial kits force you into pricey gear and specialty stores, while the open‑source script runs on any laptop and uses off‑the‑shelf pads—so you can polish safely at home without a clean‑room or nanometer‑grade spindle. If a free tool does the job, the “only brand‑name works” claim collapses.",
+        "phase": "CLASH"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex and Jamie, each of you, name the toughest objection you’ve heard against your own stance and give a direct reply—no wrap‑up, just the challenge and your comeback.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Alex",
+        "text": "The toughest objection is that beginners lack the right setup and might damage a rare disc; sure, commercial kits include premium pads and step‑by‑step guides, but a simple tutorial video paired with our open‑source script makes polishing as easy as a GPS—anyone can safely rescue memories without splurging.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "I’ll admit open‑source polish tools are handy for hobbyists on a budget, but only proven commercial kits give us the safety net—tested pads, calibrated spindles and clean‑room‑grade chemistry—to ensure today’s archives survive for the kids of tomorrow.",
+        "phase": "CONSOLIDATION"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Alright, Alex and Sarah, wrap it up in one quick line each—summarize your position, no new points.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Alex",
+        "text": "Open‑source polishing scripts clean discs just as well as pricey commercial kits, letting anyone rescue movies and games at home; the free tools and easy tutorials mean more people can preserve data, keeping far more memories safe without the extra cost.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Sarah",
+        "text": "Commercial kits are lab‑tested, calibrated and come with proven chemistry, giving a safety net that DIY open‑source polishes can’t guarantee—one bad polish can ruin a rare CD just like dropping a priceless photo—so protect the data you love with trusted, proven tools.",
+        "phase": "CLOSING"
+      },
+      {
+        "speaker": "Marcus",
+        "text": "Both sides stress safety: Sarah points to lab‑tested kits, calibrated pads and chemistry that guarantee reliable preservation, while Alex highlights low‑cost open‑source scripts, easy tutorials and broader accessibility that can rescue many discs; they agree preservation matters but differ on risk tolerance and the need for standardized testing.",
+        "phase": "CLOSING"
+      }
+    ],
+    "debatePackage": {
+      "framing": {
+        "centralQuestion": "Should we make open‑source disk polishing the go‑to way to keep CDs and DVDs safe?",
+        "keyConflict": "Saving money and DIY freedom vs. trusting proven commercial kits",
+        "stakes": "If we go too cheap, disks get scratched; if we stay pricey, people stop preserving stuff"
+      },
+      "knownFacts": [
+        "Optical discs hold a lot of data and can last long if taken care of",
+        "New open‑source tools for polishing disks are now available"
+      ],
+      "alex": {
+        "stance": "Yes, open‑source polishing should be the new standard",
+        "role": "The DIY‑savvy crew",
+        "openingStrategy": [
+          "Show a quick before‑after polish demo",
+          "Compare a cheap kit to a free tool in under a minute"
+        ],
+        "coreClaims": [
+          "Free tools work just as well as pricey ones",
+          "Everyone can keep their old movies and games safe"
+        ],
+        "arguments": [
+          "If a free script can clean a disc, why pay extra for a brand name?",
+          "More people polishing means fewer lost memories, like a community cleanup day"
+        ],
+        "attackVectors": [
+          "Point out that commercial kits cost money that could buy more disks",
+          "Highlight that closed tools hide how they work, so you can’t trust them",
+          "Say commercial kits need special stores, while open tools run on any PC",
+          "Question the “official” claim that only big brands can polish right"
+        ],
+        "reframeAngles": [
+          "Turn it into a story about sharing old family videos",
+          "Talk about making tech simple like a GPS for anyone"
+        ],
+        "concessions": [
+          "Admit some pro kits have extra polish pads",
+          "Say beginners might need a tutorial video"
+        ],
+        "likelyWeaknesses": [
+          "May look less polished than a brand box",
+          "Some users might worry about safety of DIY scripts"
+        ],
+        "closingThemes": [
+          "Free tools = more saved memories",
+          "DIY polishing keeps the whole world’s data alive"
+        ]
+      },
+      "sarah": {
+        "stance": "No, stick with proven commercial polishing methods",
+        "role": "The safety‑first squad",
+        "openingStrategy": [
+          "Show a cracked disc after a bad home polish",
+          "Quote a lab test that commercial kits meet standards"
+        ],
+        "coreClaims": [
+          "Professional kits guarantee no damage",
+          "Reliability matters more than cost"
+        ],
+        "arguments": [
+          "A bad polish can ruin a rare CD, like dropping a priceless photo",
+          "Companies spend money testing their kits, so you get a safety net"
+        ],
+        "attackVectors": [
+          "Warn that free scripts can be buggy and scratch disks",
+          "Mention no official warranty with open‑source tools",
+          "Say DIY polish may need extra hardware you don’t have",
+          "Raise the risk of uneven polish that leads to data errors"
+        ],
+        "reframeAngles": [
+          "Compare disc care to wearing a helmet – you pay for protection",
+          "Talk about preserving archives for future kids, not just today"
+        ],
+        "concessions": [
+          "Agree that cost is a concern for hobbyists",
+          "Admit open tools are cool for trying out"
+        ],
+        "likelyWeaknesses": [
+          "May seem pricey to everyday users",
+          "Could be seen as favoring big brands over community makers"
+        ],
+        "closingThemes": [
+          "Better safe than sorry with trusted kits",
+          "Protect the data you love with proven tools"
+        ]
+      },
+      "moderator": {
+        "questions": [
+          "Alex, how do you make sure a free polish won’t mess up a rare DVD?",
+          "Sarah, can you show a real‑world case where a cheap polish saved a disc?"
+        ],
+        "pressurePoints": [
+          "Ask Alex about any bad DIY polish stories",
+          "Probe Sarah on the price of commercial kits for a student"
+        ],
+        "factChecks": [
+          "Check Alex’s claim that free tools match pro results",
+          "Check Sarah’s claim that only paid kits are safe"
+        ],
+        "tradeoffs": [
+          "Do we choose cheap freedom or paid safety?"
+        ]
+      }
+    },
+    "timeline": [
+      {
+        "speaker": "Marcus",
+        "start": 0,
+        "end": 12.85,
+        "duration": 12.85
+      },
+      {
+        "speaker": "Sarah",
+        "start": 12.85,
+        "end": 28.674999999999997,
+        "duration": 15.825
+      },
+      {
+        "speaker": "Alex",
+        "start": 28.674999999999997,
+        "end": 42.074999999999996,
+        "duration": 13.4
+      },
+      {
+        "speaker": "Marcus",
+        "start": 42.074999999999996,
+        "end": 53.64999999999999,
+        "duration": 11.575
+      },
+      {
+        "speaker": "Sarah",
+        "start": 53.64999999999999,
+        "end": 74.07499999999999,
+        "duration": 20.425
+      },
+      {
+        "speaker": "Alex",
+        "start": 74.07499999999999,
+        "end": 96.64999999999999,
+        "duration": 22.575
+      },
+      {
+        "speaker": "Sarah",
+        "start": 96.64999999999999,
+        "end": 112.67499999999998,
+        "duration": 16.025
+      },
+      {
+        "speaker": "Alex",
+        "start": 112.67499999999998,
+        "end": 132.42499999999998,
+        "duration": 19.75
+      },
+      {
+        "speaker": "Marcus",
+        "start": 132.42499999999998,
+        "end": 142.85,
+        "duration": 10.425
+      },
+      {
+        "speaker": "Alex",
+        "start": 142.85,
+        "end": 164.275,
+        "duration": 21.425
+      },
+      {
+        "speaker": "Sarah",
+        "start": 164.275,
+        "end": 181.275,
+        "duration": 17
+      },
+      {
+        "speaker": "Marcus",
+        "start": 181.275,
+        "end": 187.65,
+        "duration": 6.375
+      },
+      {
+        "speaker": "Alex",
+        "start": 187.65,
+        "end": 205.20000000000002,
+        "duration": 17.55
+      },
+      {
+        "speaker": "Sarah",
+        "start": 205.20000000000002,
+        "end": 224.57500000000002,
+        "duration": 19.375
+      },
+      {
+        "speaker": "Marcus",
+        "start": 224.57500000000002,
+        "end": 246.22500000000002,
+        "duration": 21.65
+      }
+    ],
+    "graph": {
+      "nodes": [
+        {
+          "id": "Marcus_0",
+          "speaker": "Marcus",
+          "phase": "OPENING",
+          "turn": 0,
+          "phaseId": 0,
+          "phaseTurn": 1,
+          "text": "Welcome to the show! Today we’ll explore whether open‑source disk polishing should become the go‑to method for keeping CDs and DVDs safe—a clash of DIY savings versus proven commercial kits.",
+          "claims": [
+            "Welcome to the show! Today we’ll explore whether open‑source disk polishing should become the go‑to method for keeping CDs and DVDs safe—a clash of DIY savings versus proven commercial kits"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Sarah_1",
+            "Alex_2"
+          ],
+          "metrics": {
+            "strength": 2,
+            "viralScore": 0,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 4,
+            "influence": 6
+          }
+        },
+        {
+          "id": "Sarah_1",
+          "speaker": "Sarah",
+          "phase": "BUILD",
+          "turn": 1,
+          "phaseId": 1,
+          "phaseTurn": 0,
+          "text": "Commercial kits are lab‑tested to meet strict safety standards, so you won’t risk turning a rare CD into a cracked, unplayable disc—something a DIY polish can’t guarantee. Reliability matters more than the few dollars you might save.",
+          "claims": [
+            "Commercial kits are lab‑tested to meet strict safety standards",
+            "so you won’t risk turning a rare CD into a cracked",
+            "unplayable disc—something a DIY polish can’t guarantee"
+          ],
+          "stance": "No, stick with proven commercial polishing methods",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_0"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.48901265615971745,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 9.489012656159717
+          }
+        },
+        {
+          "id": "Alex_2",
+          "speaker": "Alex",
+          "phase": "BUILD",
+          "turn": 2,
+          "phaseId": 1,
+          "phaseTurn": 1,
+          "text": "Open‑source polishing scripts clean discs just as effectively as costly kits, so you don’t need to pay a brand name to save your movies and games; the more people can do it, the fewer memories get lost.",
+          "claims": [
+            "Open‑source polishing scripts clean discs just as effectively as costly kits",
+            "so you don’t need to pay a brand name to save your movies and games",
+            "the more people can do it"
+          ],
+          "stance": "Yes, open‑source polishing should be the new standard",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_0"
+          ],
+          "replyChildren": [
+            "Marcus_3"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.6322035865313445,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 10.632203586531345
+          }
+        },
+        {
+          "id": "Marcus_3",
+          "speaker": "Marcus",
+          "phase": "CLASH",
+          "turn": 3,
+          "phaseId": 2,
+          "phaseTurn": 0,
+          "text": "Sarah, you say lab‑tested kits guarantee safety, but can you point to any independent study showing they outperform a well‑designed open‑source polish on real‑world disc longevity?",
+          "claims": [
+            "you say lab‑tested kits guarantee safety",
+            "can you point to any independent study showing they outperform a well‑designed open‑source polish on real‑world disc longevity?"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_2"
+          ],
+          "replyChildren": [
+            "Sarah_4"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 0.7394711022283889,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 9.73947110222839
+          }
+        },
+        {
+          "id": "Sarah_4",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 4,
+          "phaseId": 2,
+          "phaseTurn": 1,
+          "text": "Marcus, without pricey lab‑tested kits you’re gambling with fragile archives—DIY polishes need special rigs and can leave uneven spots that corrupt data, something no independent study has proven safe, whereas commercial kits come with vetted, repeatable results that actually protect future generations.",
+          "claims": [
+            "without pricey lab‑tested kits you’re gambling with fragile archives—DIY polishes need special rigs and can leave uneven spots that corrupt data",
+            "something no independent study has proven safe",
+            "whereas commercial kits come with vetted"
+          ],
+          "stance": "No, stick with proven commercial polishing methods",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_3"
+          ],
+          "replyChildren": [
+            "Alex_5"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 2.3176936050276993,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 15.3176936050277
+          }
+        },
+        {
+          "id": "Alex_5",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 5,
+          "phaseId": 2,
+          "phaseTurn": 2,
+          "text": "Sarah, commercial kits still require you to drive to a specialty shop and buy a pricey, single‑use kit, while an open‑source script runs on any PC and a cheap polish pad—so the “vetted” claim is just a lock‑in, not a safety guarantee. Plus, thousands of hobbyists have already logged successful restores, proving the DIY method works just as well.",
+          "claims": [
+            "commercial kits still require you to drive to a specialty shop and buy a pricey",
+            "while an open‑source script runs on any PC and a cheap polish pad—so the “vetted” claim is just a lock‑in",
+            "not a safety guarantee"
+          ],
+          "stance": "Yes, open‑source polishing should be the new standard",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_4"
+          ],
+          "replyChildren": [
+            "Sarah_6"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.7869142778195828,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 13.786914277819584
+          }
+        },
+        {
+          "id": "Sarah_6",
+          "speaker": "Sarah",
+          "phase": "CLASH",
+          "turn": 6,
+          "phaseId": 2,
+          "phaseTurn": 3,
+          "text": "Sure, but hobbyists aren’t required to own a calibrated spindle, nanometer‑grade pad or a clean‑room environment—missing any of those can leave a rare CD unevenly polished and unreadable, something a tested commercial kit guarantees.",
+          "claims": [
+            "hobbyists aren’t required to own a calibrated spindle",
+            "nanometer‑grade pad or a clean‑room environment—missing any of those can leave a rare CD unevenly polished and unreadable",
+            "something a tested commercial kit guarantees"
+          ],
+          "stance": "No, stick with proven commercial polishing methods",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_5"
+          ],
+          "replyChildren": [
+            "Alex_7"
+          ],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 0.9864576831167406,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 10.98645768311674
+          }
+        },
+        {
+          "id": "Alex_7",
+          "speaker": "Alex",
+          "phase": "CLASH",
+          "turn": 7,
+          "phaseId": 2,
+          "phaseTurn": 4,
+          "text": "Commercial kits force you into pricey gear and specialty stores, while the open‑source script runs on any laptop and uses off‑the‑shelf pads—so you can polish safely at home without a clean‑room or nanometer‑grade spindle. If a free tool does the job, the “only brand‑name works” claim collapses.",
+          "claims": [
+            "Commercial kits force you into pricey gear and specialty stores",
+            "while the open‑source script runs on any laptop and uses off‑the‑shelf pads—so you can polish safely at home without a clean‑room or nanometer‑grade spindle",
+            "If a free tool does the job"
+          ],
+          "stance": "Yes, open‑source polishing should be the new standard",
+          "contradicts": [],
+          "repliesTo": [
+            "Sarah_6"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 5,
+            "viralScore": 2.391791118227293,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 12.391791118227292
+          }
+        },
+        {
+          "id": "Marcus_8",
+          "speaker": "Marcus",
+          "phase": "CONSOLIDATION",
+          "turn": 8,
+          "phaseId": 3,
+          "phaseTurn": 0,
+          "text": "Alright, Alex and Jamie, each of you, name the toughest objection you’ve heard against your own stance and give a direct reply—no wrap‑up, just the challenge and your comeback.",
+          "claims": [
+            "name the toughest objection you’ve heard against your own stance and give a direct reply—no wrap‑up",
+            "just the challenge and your comeback"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_9",
+            "Sarah_10"
+          ],
+          "metrics": {
+            "strength": 1,
+            "viralScore": 1.7773001522667897,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 4.77730015226679
+          }
+        },
+        {
+          "id": "Alex_9",
+          "speaker": "Alex",
+          "phase": "CONSOLIDATION",
+          "turn": 9,
+          "phaseId": 3,
+          "phaseTurn": 1,
+          "text": "The toughest objection is that beginners lack the right setup and might damage a rare disc; sure, commercial kits include premium pads and step‑by‑step guides, but a simple tutorial video paired with our open‑source script makes polishing as easy as a GPS—anyone can safely rescue memories without splurging.",
+          "claims": [
+            "The toughest objection is that beginners lack the right setup and might damage a rare disc",
+            "commercial kits include premium pads and step‑by‑step guides",
+            "a simple tutorial video paired with our open‑source script makes polishing as easy as a GPS—anyone can safely rescue memories without splurging"
+          ],
+          "stance": "Yes, open‑source polishing should be the new standard",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_8"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.0976753077417682,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 9.097675307741769
+          }
+        },
+        {
+          "id": "Sarah_10",
+          "speaker": "Sarah",
+          "phase": "CONSOLIDATION",
+          "turn": 10,
+          "phaseId": 3,
+          "phaseTurn": 2,
+          "text": "I’ll admit open‑source polish tools are handy for hobbyists on a budget, but only proven commercial kits give us the safety net—tested pads, calibrated spindles and clean‑room‑grade chemistry—to ensure today’s archives survive for the kids of tomorrow.",
+          "claims": [
+            "I’ll admit open‑source polish tools are handy for hobbyists on a budget",
+            "only proven commercial kits give us the safety net—tested pads",
+            "calibrated spindles and clean‑room‑grade chemistry—to ensure today’s archives survive for the kids of tomorrow"
+          ],
+          "stance": "No, stick with proven commercial polishing methods",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_8"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.0630470121346383,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 5,
+            "influence": 11.06304701213464
+          }
+        },
+        {
+          "id": "Marcus_11",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 11,
+          "phaseId": 4,
+          "phaseTurn": 0,
+          "text": "Alright, Alex and Sarah, wrap it up in one quick line each—summarize your position, no new points.",
+          "claims": [
+            "wrap it up in one quick line each—summarize your position"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [],
+          "replyChildren": [
+            "Alex_12",
+            "Sarah_13"
+          ],
+          "metrics": {
+            "strength": 0,
+            "viralScore": 1.647861222275882,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 2,
+            "influence": 3.647861222275882
+          }
+        },
+        {
+          "id": "Alex_12",
+          "speaker": "Alex",
+          "phase": "CLOSING",
+          "turn": 12,
+          "phaseId": 4,
+          "phaseTurn": 1,
+          "text": "Open‑source polishing scripts clean discs just as well as pricey commercial kits, letting anyone rescue movies and games at home; the free tools and easy tutorials mean more people can preserve data, keeping far more memories safe without the extra cost.",
+          "claims": [
+            "Open‑source polishing scripts clean discs just as well as pricey commercial kits",
+            "letting anyone rescue movies and games at home",
+            "the free tools and easy tutorials mean more people can preserve data"
+          ],
+          "stance": "Yes, open‑source polishing should be the new standard",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_11"
+          ],
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.3020191334278461,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 6,
+            "influence": 17.302019133427848
+          }
+        },
+        {
+          "id": "Sarah_13",
+          "speaker": "Sarah",
+          "phase": "CLOSING",
+          "turn": 13,
+          "phaseId": 4,
+          "phaseTurn": 2,
+          "text": "Commercial kits are lab‑tested, calibrated and come with proven chemistry, giving a safety net that DIY open‑source polishes can’t guarantee—one bad polish can ruin a rare CD just like dropping a priceless photo—so protect the data you love with trusted, proven tools.",
+          "claims": [
+            "Commercial kits are lab‑tested",
+            "calibrated and come with proven chemistry",
+            "giving a safety net that DIY open‑source polishes can’t guarantee—one bad polish can ruin a rare CD just like dropping a priceless photo—so protect the data you love with trusted"
+          ],
+          "stance": "No, stick with proven commercial polishing methods",
+          "contradicts": [],
+          "repliesTo": [
+            "Marcus_11"
+          ],
+          "replyChildren": [
+            "Marcus_14"
+          ],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.0554542695772104,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 7,
+            "influence": 20.05545426957721
+          }
+        },
+        {
+          "id": "Marcus_14",
+          "speaker": "Marcus",
+          "phase": "CLOSING",
+          "turn": 14,
+          "phaseId": 4,
+          "phaseTurn": 3,
+          "text": "Both sides stress safety: Sarah points to lab‑tested kits, calibrated pads and chemistry that guarantee reliable preservation, while Alex highlights low‑cost open‑source scripts, easy tutorials and broader accessibility that can rescue many discs; they agree preservation matters but differ on risk tolerance and the need for standardized testing.",
+          "claims": [
+            "Both sides stress safety: Sarah points to lab‑tested kits",
+            "calibrated pads and chemistry that guarantee reliable preservation",
+            "while Alex highlights low‑cost open‑source scripts"
+          ],
+          "stance": "Moderator",
+          "contradicts": [],
+          "repliesTo": [
+            "Alex_12",
+            "Sarah_13"
+          ],
+          "replyChildren": [],
+          "metrics": {
+            "strength": 3,
+            "viralScore": 1.0516299913827796,
+            "viral": false
+          },
+          "analytics": {
+            "degree": 3,
+            "influence": 7.05162999138278
+          }
+        }
+      ],
+      "edges": [
+        {
+          "from": "Marcus_0",
+          "to": "Sarah_1",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Alex_2",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_2",
+          "to": "Marcus_3",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Sarah_4",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Alex_5",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_5",
+          "to": "Sarah_6",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_6",
+          "to": "Alex_7",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Alex_9",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_8",
+          "to": "Sarah_10",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Alex_12",
+          "type": "reply"
+        },
+        {
+          "from": "Marcus_11",
+          "to": "Sarah_13",
+          "type": "reply"
+        },
+        {
+          "from": "Alex_12",
+          "to": "Marcus_14",
+          "type": "reply"
+        },
+        {
+          "from": "Sarah_13",
+          "to": "Marcus_14",
+          "type": "reply"
+        }
+      ],
+      "semanticEdges": [
+        {
+          "from": "Marcus_0",
+          "to": "Alex_2",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Marcus_3",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Sarah_4",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Alex_5",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Alex_5",
+          "type": "attack",
+          "confidence": 0.93
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Sarah_6",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Alex_5",
+          "to": "Alex_7",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_2",
+          "to": "Alex_9",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Sarah_10",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_7",
+          "to": "Sarah_10",
+          "type": "concession",
+          "confidence": 0.93
+        },
+        {
+          "from": "Marcus_0",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_2",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Alex_9",
+          "to": "Alex_12",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_10",
+          "to": "Alex_12",
+          "type": "attack",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_1",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.97
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Sarah_4",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Alex_5",
+          "to": "Sarah_13",
+          "type": "attack",
+          "confidence": 0.97
+        },
+        {
+          "from": "Sarah_10",
+          "to": "Sarah_13",
+          "type": "support",
+          "confidence": 0.96
+        },
+        {
+          "from": "Marcus_3",
+          "to": "Marcus_14",
+          "type": "sameTheme",
+          "confidence": 0.93
+        }
+      ],
+      "themes": [
+        {
+          "id": "theme_1",
+          "label": "Welcome to the show! Today we’ll explore whether open‑source disk polishing should become the go‑to method for keeping CDs and DVDs safe—a clash of DIY savings versus proven commercial kits",
+          "nodes": [
+            "Marcus_0"
+          ]
+        },
+        {
+          "id": "theme_2",
+          "label": "Commercial kits are lab‑tested to meet strict safety standards",
+          "nodes": [
+            "Sarah_1",
+            "Sarah_13"
+          ]
+        },
+        {
+          "id": "theme_3",
+          "label": "Open‑source polishing scripts clean discs just as effectively as costly kits",
+          "nodes": [
+            "Alex_2",
+            "Alex_12"
+          ]
+        },
+        {
+          "id": "theme_4",
+          "label": "you say lab‑tested kits guarantee safety",
+          "nodes": [
+            "Marcus_3"
+          ]
+        },
+        {
+          "id": "theme_5",
+          "label": "without pricey lab‑tested kits you’re gambling with fragile archives—DIY polishes need special rigs and can leave uneven spots that corrupt data",
+          "nodes": [
+            "Sarah_4"
+          ]
+        },
+        {
+          "id": "theme_6",
+          "label": "commercial kits still require you to drive to a specialty shop and buy a pricey",
+          "nodes": [
+            "Alex_5"
+          ]
+        },
+        {
+          "id": "theme_7",
+          "label": "hobbyists aren’t required to own a calibrated spindle",
+          "nodes": [
+            "Sarah_6"
+          ]
+        },
+        {
+          "id": "theme_8",
+          "label": "Commercial kits force you into pricey gear and specialty stores",
+          "nodes": [
+            "Alex_7"
+          ]
+        },
+        {
+          "id": "theme_9",
+          "label": "name the toughest objection you’ve heard against your own stance and give a direct reply—no wrap‑up",
+          "nodes": [
+            "Marcus_8"
+          ]
+        },
+        {
+          "id": "theme_10",
+          "label": "The toughest objection is that beginners lack the right setup and might damage a rare disc",
+          "nodes": [
+            "Alex_9"
+          ]
+        },
+        {
+          "id": "theme_11",
+          "label": "I’ll admit open‑source polish tools are handy for hobbyists on a budget",
+          "nodes": [
+            "Sarah_10"
+          ]
+        },
+        {
+          "id": "theme_12",
+          "label": "wrap it up in one quick line each—summarize your position",
+          "nodes": [
+            "Marcus_11"
+          ]
+        },
+        {
+          "id": "theme_13",
+          "label": "Both sides stress safety: Sarah points to lab‑tested kits",
+          "nodes": [
+            "Marcus_14"
+          ]
+        }
+      ],
+      "communities": {
+        "Moderator": [
+          "Marcus_0",
+          "Marcus_3",
+          "Marcus_8",
+          "Marcus_11",
+          "Marcus_14"
+        ],
+        "No, stick with proven commercial polishing methods": [
+          "Sarah_1",
+          "Sarah_4",
+          "Sarah_6",
+          "Sarah_10",
+          "Sarah_13"
+        ],
+        "Yes, open‑source polishing should be the new standard": [
+          "Alex_2",
+          "Alex_5",
+          "Alex_7",
+          "Alex_9",
+          "Alex_12"
+        ]
+      }
+    }
+  },
+  {
     "id": "199c408b-31b5-4ee3-bfe9-d9a3618c8042",
     "date": "2026-07-03T03:27:28.795Z",
     "topic": "Should the legacy of Victor Willis and the Village People be re‑evaluated in light of changing cultural attitudes toward disco and its representations?",

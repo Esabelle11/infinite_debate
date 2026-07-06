@@ -125,8 +125,8 @@ async function fetchArticles() {
     {
       params: {
         language: "en",
-        pageSize: 5,
-        // category: "technology",
+        pageSize: 3,
+        category: "technology",
         apiKey: process.env.NEWS_API_KEY
       }
     }
@@ -323,29 +323,43 @@ export async function runResearchScraper() {
     const dataset = [];
 
     for (const article of articles) {
-     
+
       const signal = {
         title: article.title,
         description: article.description,
         source: article.source?.name,
         publishedAt: article.publishedAt
       };
-
+    
       console.log("⚙️ Processing:", signal.title);
-
-      const factsObj = await extractFacts(JSON.stringify(signal));
-
-      /* =========================
-        SINGLE MODE PER ARTICLE 
-      ========================= */
+    
+      let factsObj;
+    
+      try {
+        factsObj = await extractFacts(JSON.stringify(signal));
+      } catch (err) {
+        console.log(
+          `⚠️ Skipping article on extractFacts: ${article.title}`
+        );
+        console.log(err.message);
+        continue;
+      }
+    
       for (const [mode, intensity] of Object.entries(intensityProfile)) {
         try {
-          const debate = await retry(() =>  generateDebate(factsObj, mode, intensity), 3, 10000);
-
-          const evaluation = await retry(() =>  evaluateDebateTopic(signal, factsObj, debate), 3, 10000);
-
-          const average_eval = averageEvaluation(evaluation);
-
+    
+          const debate = await retry(
+            () => generateDebate(factsObj, mode, intensity),
+            3,
+            10000
+          );
+    
+          const evaluation = await retry(
+            () => evaluateDebateTopic(signal, factsObj, debate),
+            3,
+            10000
+          );
+    
           dataset.push({
             signal,
             facts: factsObj,
@@ -353,18 +367,17 @@ export async function runResearchScraper() {
             intensity,
             debate,
             evaluation,
-            average_eval
+            average_eval: averageEvaluation(evaluation)
           });
-
+    
         } catch (err) {
           console.log(
-            `⚠️ Skipping article: ${article.title} ${mode} ${intensity} intensity`
+            `⚠️ Skipping article: ${article.title} (${mode}, ${intensity})`
           );
           console.log(err.message);
           continue;
         }
       }
- 
     }
 
     const summary = {

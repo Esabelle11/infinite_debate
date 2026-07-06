@@ -1,0 +1,678 @@
+{
+  "summary": {
+    "totalRecords": 12,
+    "intensityProfile": {
+      "philosophical": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "controversy": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "viral": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "emotional": {
+        "heat": 9,
+        "chaos": 8
+      }
+    },
+    "themes": [
+      "video game announcement",
+      "graphics options",
+      "hardware specifications",
+      "video game announcement",
+      "graphics options",
+      "hardware specifications",
+      "video game announcement",
+      "graphics options",
+      "hardware specifications",
+      "video game announcement",
+      "graphics options",
+      "hardware specifications",
+      "open source",
+      "optical media",
+      "disk polishing",
+      "data storage durability",
+      "open source",
+      "optical media",
+      "disk polishing",
+      "data storage durability",
+      "open source",
+      "optical media",
+      "disk polishing",
+      "data storage durability",
+      "open source",
+      "optical media",
+      "disk polishing",
+      "data storage durability",
+      "software updates",
+      "free upgrade program",
+      "mobile devices",
+      "software updates",
+      "free upgrade program",
+      "mobile devices",
+      "software updates",
+      "free upgrade program",
+      "mobile devices",
+      "software updates",
+      "free upgrade program",
+      "mobile devices"
+    ],
+    "entities": [
+      "Dragon Quest 11 S",
+      "Nintendo Switch 2",
+      "Square Enix",
+      "Nintendoeverything.com",
+      "Dragon Quest 11 S",
+      "Nintendo Switch 2",
+      "Square Enix",
+      "Nintendoeverything.com",
+      "Dragon Quest 11 S",
+      "Nintendo Switch 2",
+      "Square Enix",
+      "Nintendoeverything.com",
+      "Dragon Quest 11 S",
+      "Nintendo Switch 2",
+      "Square Enix",
+      "Nintendoeverything.com",
+      "Disk Polishing",
+      "Hackaday",
+      "optical media",
+      "Disk Polishing",
+      "Hackaday",
+      "optical media",
+      "Disk Polishing",
+      "Hackaday",
+      "optical media",
+      "Disk Polishing",
+      "Hackaday",
+      "optical media",
+      "Samsung",
+      "One UI 9",
+      "Galaxy phones",
+      "Forbes",
+      "Samsung",
+      "One UI 9",
+      "Galaxy phones",
+      "Forbes",
+      "Samsung",
+      "One UI 9",
+      "Galaxy phones",
+      "Forbes",
+      "Samsung",
+      "One UI 9",
+      "Galaxy phones",
+      "Forbes"
+    ],
+    "generatedAt": "2026-07-06T00:14:31.701Z"
+  },
+  "dataset": [
+    {
+      "signal": {
+        "title": "Dragon Quest 11 S details Nintendo Switch 2 frame rate and resolution - Nintendo Everything",
+        "description": "Following up on the recent announcement of Dragon Quest 11 S on Nintendo Switch 2, Square Enix provided more information including frame rate and resolution details. The company previously confirmed that two graphical options will be included. Players can cho…",
+        "source": "Nintendoeverything.com",
+        "publishedAt": "2026-07-04T20:33:48Z"
+      },
+      "facts": {
+        "facts": [
+          "Square Enix provided frame rate and resolution details for Dragon Quest 11 S on Nintendo Switch 2.",
+          "Square Enix confirmed that two graphical options will be included in Dragon Quest 11 S."
+        ],
+        "entities": [
+          "Dragon Quest 11 S",
+          "Nintendo Switch 2",
+          "Square Enix",
+          "Nintendoeverything.com"
+        ],
+        "themes": [
+          "video game announcement",
+          "graphics options",
+          "hardware specifications"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should game developers prioritize offering multiple graphical options over maximizing native performance on hybrid consoles like the Nintendo Switch?",
+        "background": "Square Enix provided frame rate and resolution details for Dragon Quest 11 S on the Nintendo Switch. Square Enix confirmed that two graphical options will be included in Dragon Quest 11 S.",
+        "framing": "Is it better for developers to focus on flexibility in graphics settings rather than optimizing a single performance target for hybrid hardware?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 6,
+        "framing": 7,
+        "coherence": 9,
+        "overall": 8
+      },
+      "average_eval": 8
+    },
+    {
+      "signal": {
+        "title": "Dragon Quest 11 S details Nintendo Switch 2 frame rate and resolution - Nintendo Everything",
+        "description": "Following up on the recent announcement of Dragon Quest 11 S on Nintendo Switch 2, Square Enix provided more information including frame rate and resolution details. The company previously confirmed that two graphical options will be included. Players can cho…",
+        "source": "Nintendoeverything.com",
+        "publishedAt": "2026-07-04T20:33:48Z"
+      },
+      "facts": {
+        "facts": [
+          "Square Enix provided frame rate and resolution details for Dragon Quest 11 S on Nintendo Switch 2.",
+          "Square Enix confirmed that two graphical options will be included in Dragon Quest 11 S."
+        ],
+        "entities": [
+          "Dragon Quest 11 S",
+          "Nintendo Switch 2",
+          "Square Enix",
+          "Nintendoeverything.com"
+        ],
+        "themes": [
+          "video game announcement",
+          "graphics options",
+          "hardware specifications"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should developers prioritize multiple graphics options over native performance on hybrid consoles like the Nintendo Switch 2?",
+        "background": "Square Enix provided frame rate and resolution details for Dragon Quest 11 S on the Nintendo Switch 2. The company also confirmed that two graphical options will be included in the game.",
+        "framing": "Is it better for games on hybrid consoles to offer selectable graphics settings rather than optimizing for a single native performance target?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.8
+    },
+    {
+      "signal": {
+        "title": "Dragon Quest 11 S details Nintendo Switch 2 frame rate and resolution - Nintendo Everything",
+        "description": "Following up on the recent announcement of Dragon Quest 11 S on Nintendo Switch 2, Square Enix provided more information including frame rate and resolution details. The company previously confirmed that two graphical options will be included. Players can cho…",
+        "source": "Nintendoeverything.com",
+        "publishedAt": "2026-07-04T20:33:48Z"
+      },
+      "facts": {
+        "facts": [
+          "Square Enix provided frame rate and resolution details for Dragon Quest 11 S on Nintendo Switch 2.",
+          "Square Enix confirmed that two graphical options will be included in Dragon Quest 11 S."
+        ],
+        "entities": [
+          "Dragon Quest 11 S",
+          "Nintendo Switch 2",
+          "Square Enix",
+          "Nintendoeverything.com"
+        ],
+        "themes": [
+          "video game announcement",
+          "graphics options",
+          "hardware specifications"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should developers prioritize offering multiple graphical options over native performance on hybrid consoles like the Nintendo Switch 2?",
+        "background": "Square Enix disclosed frame rate and resolution specifications for Dragon Quest 11 S on the Nintendo Switch 2. The company also confirmed that the game will include two graphical options. These details indicate a trade‑off between visual fidelity and performance on the platform.",
+        "framing": "Is it better for games on hybrid consoles to provide selectable graphics settings rather than a single, optimized performance mode?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.6
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Dragon Quest 11 S details Nintendo Switch 2 frame rate and resolution - Nintendo Everything",
+        "description": "Following up on the recent announcement of Dragon Quest 11 S on Nintendo Switch 2, Square Enix provided more information including frame rate and resolution details. The company previously confirmed that two graphical options will be included. Players can cho…",
+        "source": "Nintendoeverything.com",
+        "publishedAt": "2026-07-04T20:33:48Z"
+      },
+      "facts": {
+        "facts": [
+          "Square Enix provided frame rate and resolution details for Dragon Quest 11 S on Nintendo Switch 2.",
+          "Square Enix confirmed that two graphical options will be included in Dragon Quest 11 S."
+        ],
+        "entities": [
+          "Dragon Quest 11 S",
+          "Nintendo Switch 2",
+          "Square Enix",
+          "Nintendoeverything.com"
+        ],
+        "themes": [
+          "video game announcement",
+          "graphics options",
+          "hardware specifications"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should developers prioritize multiple graphics options for handheld consoles like the Switch, even if it may affect performance or battery life?",
+        "background": "Square Enix provided frame rate and resolution details for Dragon Quest 11 S on Nintendo Switch 2. Square Enix confirmed that two graphical options will be included in Dragon Quest 11 S.",
+        "framing": "Is it advisable for game makers to offer selectable graphics settings on portable hardware, balancing visual fidelity against performance and battery constraints?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 9.4
+      },
+      "average_eval": 9.4
+    },
+    {
+      "signal": {
+        "title": "Disk Polishing Goes Open Source - Hackaday",
+        "description": "Optical media is great — it’s pretty high density, relatively durable, and decently long-lasting if well cared for. If not well cared for, well, it’s only relatively durable, and …",
+        "source": "Hackaday",
+        "publishedAt": "2026-07-04T20:00:00Z"
+      },
+      "facts": {
+        "facts": [
+          "An article titled \"Disk Polishing Goes Open Source\" was published on Hackaday.",
+          "The article was published on 2026-07-04 at 20:00:00 UTC.",
+          "The article describes optical media as having high density.",
+          "The article states that optical media is relatively durable.",
+          "The article notes that optical media can be decently long‑lasting if well cared for."
+        ],
+        "entities": [
+          "Disk Polishing",
+          "Hackaday",
+          "optical media"
+        ],
+        "themes": [
+          "open source",
+          "optical media",
+          "disk polishing",
+          "data storage durability"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should open‑source disk‑polishing methods be promoted as a primary means to extend the lifespan of optical media?",
+        "background": "An article titled \"Disk Polishing Goes Open Source\" was published on Hackaday on 2026-07-04 at 20:00:00 UTC. The article describes optical media as having high density and being relatively durable. It also notes that optical media can be decently long‑lasting if well cared for. The piece highlights the emergence of open‑source techniques for polishing disks.",
+        "framing": "Is promoting open‑source disk‑polishing an effective strategy for enhancing the durability of optical storage?",
+        "emotion": 4,
+        "controversy": 4
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 5,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8.4
+      },
+      "average_eval": 8.4
+    },
+    {
+      "signal": {
+        "title": "Disk Polishing Goes Open Source - Hackaday",
+        "description": "Optical media is great — it’s pretty high density, relatively durable, and decently long-lasting if well cared for. If not well cared for, well, it’s only relatively durable, and …",
+        "source": "Hackaday",
+        "publishedAt": "2026-07-04T20:00:00Z"
+      },
+      "facts": {
+        "facts": [
+          "An article titled \"Disk Polishing Goes Open Source\" was published on Hackaday.",
+          "The article was published on 2026-07-04 at 20:00:00 UTC.",
+          "The article describes optical media as having high density.",
+          "The article states that optical media is relatively durable.",
+          "The article notes that optical media can be decently long‑lasting if well cared for."
+        ],
+        "entities": [
+          "Disk Polishing",
+          "Hackaday",
+          "optical media"
+        ],
+        "themes": [
+          "open source",
+          "optical media",
+          "disk polishing",
+          "data storage durability"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should open‑source disk‑polishing techniques be widely adopted to extend the lifespan of optical media?",
+        "background": "An article titled \"Disk Polishing Goes Open Source\" was published on Hackaday on 2026-07-04 at 20:00:00 UTC. The article describes optical media as having high density and being relatively durable. It also notes that optical media can be decently long‑lasting if well cared for.",
+        "framing": "Is it advisable to promote open‑source disk polishing as a standard practice for preserving optical media?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 8.6
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Disk Polishing Goes Open Source - Hackaday",
+        "description": "Optical media is great — it’s pretty high density, relatively durable, and decently long-lasting if well cared for. If not well cared for, well, it’s only relatively durable, and …",
+        "source": "Hackaday",
+        "publishedAt": "2026-07-04T20:00:00Z"
+      },
+      "facts": {
+        "facts": [
+          "An article titled \"Disk Polishing Goes Open Source\" was published on Hackaday.",
+          "The article was published on 2026-07-04 at 20:00:00 UTC.",
+          "The article describes optical media as having high density.",
+          "The article states that optical media is relatively durable.",
+          "The article notes that optical media can be decently long‑lasting if well cared for."
+        ],
+        "entities": [
+          "Disk Polishing",
+          "Hackaday",
+          "optical media"
+        ],
+        "themes": [
+          "open source",
+          "optical media",
+          "disk polishing",
+          "data storage durability"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should open-source disk‑polishing techniques be adopted as a standard method for preserving optical media?",
+        "background": "An article titled \"Disk Polishing Goes Open Source\" was published on Hackaday on 2026-07-04 at 20:00:00 UTC. The article describes optical media as having high density and being relatively durable. It also notes that optical media can be decently long‑lasting if well cared for. The piece highlights the emergence of open‑source disk‑polishing tools.",
+        "framing": "Is it advisable to make open‑source disk‑polishing a standard practice for extending the lifespan of optical media?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 6,
+        "framing": 10,
+        "coherence": 10,
+        "overall": 9.2
+      },
+      "average_eval": 9.2
+    },
+    {
+      "signal": {
+        "title": "Disk Polishing Goes Open Source - Hackaday",
+        "description": "Optical media is great — it’s pretty high density, relatively durable, and decently long-lasting if well cared for. If not well cared for, well, it’s only relatively durable, and …",
+        "source": "Hackaday",
+        "publishedAt": "2026-07-04T20:00:00Z"
+      },
+      "facts": {
+        "facts": [
+          "An article titled \"Disk Polishing Goes Open Source\" was published on Hackaday.",
+          "The article was published on 2026-07-04 at 20:00:00 UTC.",
+          "The article describes optical media as having high density.",
+          "The article states that optical media is relatively durable.",
+          "The article notes that optical media can be decently long‑lasting if well cared for."
+        ],
+        "entities": [
+          "Disk Polishing",
+          "Hackaday",
+          "optical media"
+        ],
+        "themes": [
+          "open source",
+          "optical media",
+          "disk polishing",
+          "data storage durability"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should open‑source disk polishing be adopted as a standard method for preserving optical media?",
+        "background": "An article titled \"Disk Polishing Goes Open Source\" was published on Hackaday on 2026-07-04 at 20:00:00 UTC. The article describes optical media as having high density and being relatively durable. It also notes that optical media can be decently long‑lasting if well cared for. The piece highlights the emergence of open‑source tools for disk polishing.",
+        "framing": "Is it advisable to make open‑source disk polishing a mainstream technique for extending the lifespan of optical storage?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List - Forbes",
+        "description": "Samsung's One UI 9 testing lineup grew again this week. Here's every confirmed device, plus a recap of what's already landed in previous updates.",
+        "source": "Forbes",
+        "publishedAt": "2026-07-04T19:32:38Z"
+      },
+      "facts": {
+        "facts": [
+          "Samsung's One UI 9 testing lineup grew again this week.",
+          "Millions more Galaxy phones have been added to Samsung's free upgrade list."
+        ],
+        "entities": [
+          "Samsung",
+          "One UI 9",
+          "Galaxy phones",
+          "Forbes"
+        ],
+        "themes": [
+          "software updates",
+          "free upgrade program",
+          "mobile devices"
+        ]
+      },
+      "mode": "philosophical",
+      "intensity": {
+        "heat": 4,
+        "chaos": 3
+      },
+      "debate": {
+        "topic": "Should Samsung continue expanding its free upgrade program for Galaxy devices as it adds more models to the One UI 9 testing lineup?",
+        "background": "Samsung's One UI 9 testing lineup grew again this week. Millions more Galaxy phones have been added to Samsung's free upgrade list.",
+        "framing": "Is expanding the free upgrade program for Galaxy devices a net positive for consumers and the market?",
+        "emotion": 4,
+        "controversy": 3
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 9,
+        "controversy": 3,
+        "framing": 9,
+        "coherence": 9,
+        "overall": 8
+      },
+      "average_eval": 7.8
+    },
+    {
+      "signal": {
+        "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List - Forbes",
+        "description": "Samsung's One UI 9 testing lineup grew again this week. Here's every confirmed device, plus a recap of what's already landed in previous updates.",
+        "source": "Forbes",
+        "publishedAt": "2026-07-04T19:32:38Z"
+      },
+      "facts": {
+        "facts": [
+          "Samsung's One UI 9 testing lineup grew again this week.",
+          "Millions more Galaxy phones have been added to Samsung's free upgrade list."
+        ],
+        "entities": [
+          "Samsung",
+          "One UI 9",
+          "Galaxy phones",
+          "Forbes"
+        ],
+        "themes": [
+          "software updates",
+          "free upgrade program",
+          "mobile devices"
+        ]
+      },
+      "mode": "controversy",
+      "intensity": {
+        "heat": 7,
+        "chaos": 6
+      },
+      "debate": {
+        "topic": "Should Samsung continue expanding its free upgrade program for older Galaxy devices?",
+        "background": "Samsung's One UI 9 testing lineup grew again this week. Millions more Galaxy phones have been added to Samsung's free upgrade list. These actions extend software support to a larger portion of Samsung's mobile device ecosystem.",
+        "framing": "Should Samsung continue expanding its free upgrade program for older Galaxy devices?",
+        "emotion": 7,
+        "controversy": 7
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 10,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 9
+    },
+    {
+      "signal": {
+        "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List - Forbes",
+        "description": "Samsung's One UI 9 testing lineup grew again this week. Here's every confirmed device, plus a recap of what's already landed in previous updates.",
+        "source": "Forbes",
+        "publishedAt": "2026-07-04T19:32:38Z"
+      },
+      "facts": {
+        "facts": [
+          "Samsung's One UI 9 testing lineup grew again this week.",
+          "Millions more Galaxy phones have been added to Samsung's free upgrade list."
+        ],
+        "entities": [
+          "Samsung",
+          "One UI 9",
+          "Galaxy phones",
+          "Forbes"
+        ],
+        "themes": [
+          "software updates",
+          "free upgrade program",
+          "mobile devices"
+        ]
+      },
+      "mode": "viral",
+      "intensity": {
+        "heat": 5,
+        "chaos": 9
+      },
+      "debate": {
+        "topic": "Should Samsung continue expanding its free upgrade program to include more Galaxy devices?",
+        "background": "Samsung announced that its One UI 9 testing lineup has grown again this week. Additionally, millions more Galaxy phones have been added to Samsung's free upgrade list.",
+        "framing": "Is expanding Samsung's free upgrade program to cover more Galaxy devices beneficial for users and the company?",
+        "emotion": 5,
+        "controversy": 5
+      },
+      "evaluation": {
+        "faithfulness": 9,
+        "relevance": 10,
+        "controversy": 7,
+        "framing": 8,
+        "coherence": 9,
+        "overall": 9
+      },
+      "average_eval": 8.6
+    },
+    {
+      "signal": {
+        "title": "Millions More Galaxy Phones Join Samsung's Free Upgrade List - Forbes",
+        "description": "Samsung's One UI 9 testing lineup grew again this week. Here's every confirmed device, plus a recap of what's already landed in previous updates.",
+        "source": "Forbes",
+        "publishedAt": "2026-07-04T19:32:38Z"
+      },
+      "facts": {
+        "facts": [
+          "Samsung's One UI 9 testing lineup grew again this week.",
+          "Millions more Galaxy phones have been added to Samsung's free upgrade list."
+        ],
+        "entities": [
+          "Samsung",
+          "One UI 9",
+          "Galaxy phones",
+          "Forbes"
+        ],
+        "themes": [
+          "software updates",
+          "free upgrade program",
+          "mobile devices"
+        ]
+      },
+      "mode": "emotional",
+      "intensity": {
+        "heat": 9,
+        "chaos": 8
+      },
+      "debate": {
+        "topic": "Should Samsung continue expanding its free upgrade program for Galaxy devices?",
+        "background": "Samsung recently added millions more Galaxy phones to its free upgrade list. This week, the testing lineup for One UI 9 also grew, indicating broader rollout plans.",
+        "framing": "Is extending the free upgrade program a sustainable and beneficial strategy for Samsung and its users?",
+        "emotion": 9,
+        "controversy": 9
+      },
+      "evaluation": {
+        "faithfulness": 10,
+        "relevance": 10,
+        "controversy": 9,
+        "framing": 9,
+        "coherence": 10,
+        "overall": 9.6
+      },
+      "average_eval": 9.6
+    }
+  ]
+}
